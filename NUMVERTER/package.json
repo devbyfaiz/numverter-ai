@@ -36,7 +36,7 @@
     "react-hook-form": "^7.48.2",
     "zod": "^3.22.4",
     "@hookform/resolvers": "^3.3.2",
-    "react-currency-input-field": "^5.1.0",
+    "react-currency-input-field": "^3.10.0",
     "lottie-react": "^2.4.0"
   },
   "devDependencies": {
@@ -45,4 +45,5 @@
     "@types/react-speech-recognition": "^3.9.6"
   }
 }
+
 
